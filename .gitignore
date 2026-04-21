@@ -1,0 +1,7 @@
+
+*
+# 除了下面的文件，忽略所有其他文件
+!.gitignore
+!ubantu_OfflineInstall_Tool.py
+!release/
+!release/**

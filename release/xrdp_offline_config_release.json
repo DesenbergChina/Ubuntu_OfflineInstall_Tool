@@ -1,0 +1,4 @@
+{
+  "SSH_ALIAS": "test",
+  "BUNDLE_DIR_PREFIX": "offline_bundle"
+}
