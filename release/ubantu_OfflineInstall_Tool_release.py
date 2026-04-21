@@ -1,9 +1,9 @@
 '''
-Author: Desenberg
+Author: DesenbergChina
 Date: 2026-04-21 15:37:43
-LastEditors: Desenberg
+LastEditors: DesenbergChina
 Description: 通过 SSH 连接到远端 Ubuntu，获取依赖包下载链接，下载到本地，再上传到远端执行离线安装
-Copyright (c) 2026 by Desenberg, All Rights Reserved.
+Copyright (c) 2026 by DesenbergChina, All Rights Reserved.
 '''
 # ===================== Windows → Ubuntu XRDP 离线安装工具 =====================
 # 依赖：Python 3.6+，需配置系统 SSH 客户端和 SCP 命令才能使用
