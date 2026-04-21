@@ -1,5 +1,7 @@
 # Windows -> Ubuntu XRDP Offline Install Tool
 
+中文版本: [README.md](../README.md)
+
 ## Project Overview
 
 This is an Ubuntu offline installation tool (Tkinter GUI) designed for Windows-side operations.
@@ -34,7 +36,6 @@ The current repository is mainly optimized for XRDP offline deployment and repai
 
 - release/ubantu_OfflineInstall_Tool_release.py: Main GUI program for release use (recommended entry)
 - release/xrdp_offline_config_release.json: Release configuration file
-- XRDP_Offline_Quickstart.md: Minimal XRDP usage guide
 
 ## Runtime Environment
 
@@ -67,7 +68,9 @@ Recommended pre-checks in terminal:
 
 Run from the repository root:
 
+```
 python release/ubantu_OfflineInstall_Tool_release.py
+```
 
 ### 2. Set parameters in the GUI
 
@@ -75,11 +78,6 @@ python release/ubantu_OfflineInstall_Tool_release.py
 - Offline bundle directory prefix
 - Package names to install (space- or comma-separated)
 - Whether to include recommended packages
-
-Suggested XRDP package sets:
-
-- Core fix set: xrdp xorgxrdp xserver-common xserver-xorg-core xserver-xorg-input-all
-- Desktop enhancement set: dbus-x11 xfce4 xfce4-goodies
 
 ### 3. Execute steps in order (recommended)
 

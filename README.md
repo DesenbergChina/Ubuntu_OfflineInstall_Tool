@@ -35,9 +35,7 @@ English version: [docs/README_EN.md](docs/README_EN.md)
 ## 目录说明
 
 - release/ubantu_OfflineInstall_Tool_release.py: 发布版 GUI 主程序（推荐入口）
-- release/xrdp_offline_config_release.json: 发布版配置文件
-- XRDP_Offline_Quickstart.md: XRDP 极简使用指引
-
+- release/xrdp_offline_config_release.json: 发布版配置文
 
 ## 运行环境
 
