@@ -69,9 +69,9 @@ English version: [docs/README_EN.md](docs/README_EN.md)
 ### 1. 启动 GUI
 
 在仓库根目录运行：
-
+```
 python release/ubantu_OfflineInstall_Tool_release.py
-
+```
 ### 2. 在界面中设置参数
 
 - SSH 别名
