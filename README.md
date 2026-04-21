@@ -67,9 +67,9 @@
 ### 1. 启动 GUI
 
 在仓库根目录运行：
-
+```
 python release/ubantu_OfflineInstall_Tool_release.py
-
+```
 ### 2. 在界面中设置参数
 
 - SSH 别名
@@ -77,10 +77,6 @@ python release/ubantu_OfflineInstall_Tool_release.py
 - 待安装包名（支持空格或逗号分隔）
 - 是否包含推荐包
 
-XRDP 常用包建议：
-
-- 核心修复集：xrdp xorgxrdp xserver-common xserver-xorg-core xserver-xorg-input-all
-- 桌面增强集：dbus-x11 xfce4 xfce4-goodies
 
 ### 3. 按步骤执行（推荐顺序）
 
