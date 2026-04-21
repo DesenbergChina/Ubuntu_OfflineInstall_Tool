@@ -6,6 +6,10 @@
 !release/
 !release/**
 
+!docs/
+!docs/**
+
+
 !README.md
 !LICENSE
 !NOTICE
