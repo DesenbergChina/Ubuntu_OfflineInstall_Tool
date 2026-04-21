@@ -1,5 +1,7 @@
 # Windows -> Ubuntu XRDP Offline Install Tool
 
+English version: [docs/README_EN.md](docs/README_EN.md)
+
 ## 项目简介
 
 这是一个面向 Windows 运维侧的 Ubuntu 离线安装工具（Tkinter GUI）。
@@ -76,11 +78,6 @@ python release/ubantu_OfflineInstall_Tool_release.py
 - 离线目录前缀
 - 待安装包名（支持空格或逗号分隔）
 - 是否包含推荐包
-
-XRDP 常用包建议：
-
-- 核心修复集：xrdp xorgxrdp xserver-common xserver-xorg-core xserver-xorg-input-all
-- 桌面增强集：dbus-x11 xfce4 xfce4-goodies
 
 ### 3. 按步骤执行（推荐顺序）
 
