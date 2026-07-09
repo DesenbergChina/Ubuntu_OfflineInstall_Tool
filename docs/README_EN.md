@@ -34,7 +34,7 @@ The current repository is mainly optimized for XRDP offline deployment and repai
 
 ## Directory Guide
 
-- release/ubantu_OfflineInstall_Tool_release.py: Main GUI program for release use (recommended entry)
+- release/ubuntu_OfflineInstall_Tool_release.py: Main GUI program for release use (recommended entry)
 - release/xrdp_offline_config_release.json: Release configuration file
 
 ## Runtime Environment
@@ -69,7 +69,7 @@ Recommended pre-checks in terminal:
 Run from the repository root:
 
 ```
-python release/ubantu_OfflineInstall_Tool_release.py
+python release/ubuntu_OfflineInstall_Tool_release.py
 ```
 
 ### 2. Set parameters in the GUI
