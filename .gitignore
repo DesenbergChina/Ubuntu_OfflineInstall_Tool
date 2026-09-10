@@ -1,5 +1,7 @@
 
 *
+# 本地文档
+docs/docs_local
 # 除了下面的文件，忽略所有其他文件
 !.gitignore
 !ubuntu_OfflineInstall_Tool.py
@@ -7,9 +9,7 @@
 !release/**
 
 !docs/
-!docs/**
-
-
 !README.md
+
 !LICENSE
 !NOTICE
