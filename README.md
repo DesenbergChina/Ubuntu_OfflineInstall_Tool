@@ -34,7 +34,7 @@ English version: [docs/README_EN.md](docs/README_EN.md)
 
 ## 目录说明
 
-- release/ubantu_OfflineInstall_Tool_release.py: 发布版 GUI 主程序（推荐入口）
+- release/ubuntu_OfflineInstall_Tool_release.py: 发布版 GUI 主程序（推荐入口）
 - release/xrdp_offline_config_release.json: 发布版配置文
 
 ## 运行环境
@@ -68,7 +68,7 @@ English version: [docs/README_EN.md](docs/README_EN.md)
 
 在仓库根目录运行：
 ```
-python release/ubantu_OfflineInstall_Tool_release.py
+python release/ubuntu_OfflineInstall_Tool_release.py
 ```
 ### 2. 在界面中设置参数
 
